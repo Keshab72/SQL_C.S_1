@@ -21,7 +21,7 @@ Sales, and Area Code Note: COGS stands for Cost of Goods Sold
 
 - Excel:- For data cleaning
 - MS SQL:- For Data analysis
-- 
+  
 ## Tasks  performed:-
 1. Display the number of states present in the LocationTable.
 2. How many products are of regular type?
