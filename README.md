@@ -49,7 +49,7 @@ Sales, and Area Code Note: COGS stands for Cost of Goods Sold
 
 - Excel:- For data cleaning
 - MS SQL:- For Data analysis
-- 
+
   ## Data Analysis
 
  Display the average budget of the Product where the average budget margin should be greater than 100.
