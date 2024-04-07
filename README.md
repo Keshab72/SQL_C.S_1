@@ -1,5 +1,3 @@
-# SQL_C.S_1
-
 ## Sales Analysis
 
 ## Problem Statement:-
@@ -15,12 +13,6 @@ Sales, and Area Code Note: COGS stands for Cost of Goods Sold
 - c. LocationTable: Finally, the LocationTable has 156 rows and follows a similar approach to ProductTable. It has four columns named Area Code, State, Market, and Market Size.
 
   The dataset is available in " .csv " file check it out
-
-
-## Tools used:
-
-- Excel:- For data cleaning
-- MS SQL:- For Data analysis
   
 ## Tasks  performed:-
 1. Display the number of states present in the LocationTable.
@@ -53,8 +45,12 @@ Sales, and Area Code Note: COGS stands for Cost of Goods Sold
 28. Delete the records in the Product Table for regular type.
 29. Display the ASCII value of the fifth character from the columnProduct.
 
+## Tools used:
 
-    ## Data Analysis
+- Excel:- For data cleaning
+- MS SQL:- For Data analysis
+- 
+  ## Data Analysis
 
  Display the average budget of the Product where the average budget margin should be greater than 100.
  ```sql 
